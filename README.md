@@ -1,1 +1,1 @@
-# Geting-And-Cleaning-Data-Assingment
+# Getting-And-Cleaning-Data-Assingment
